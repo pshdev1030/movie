@@ -29,7 +29,7 @@ html,body,
     display:flex;
     justify-content:center;
     align-items:center;
-    font-weight: 400px;
+    font-weight: 300px;
 }
 /*크기를 부모요소까지 확장하고 아이템을 중간에 정렬
 ->텍스트가 중간에 정렬된다.*/
